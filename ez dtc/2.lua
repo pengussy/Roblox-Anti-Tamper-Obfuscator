@@ -1,3 +1,4 @@
+-- credits to @troooor
 local L = Instance.new("BindableFunction")
 
 if not L or typeof(L) ~= "Instance" then 
