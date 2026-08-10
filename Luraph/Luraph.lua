@@ -1,3 +1,5 @@
+-- Luraph Runtime Check 14.8/14.9
+
 local Debug_Info_Result, Debug_Info_Result_2, Debug_Info_Result_3, Debug_Info_Result_4, Debug_Info_Result_5, Debug_Info_Result_6, Debug_Info_Result_7, Debug_Info_Result_8, Debug_Info_Result_9, Debug_Info_Result_10, Debug_Info_Result_11, Debug_Info_Result_12, Debug_Info_Result_13, Debug_Info_Result_14, Debug_Info_Result_15, Debug_Info_Result_16, Debug_Info_Result_17, Debug_Info_Result_18, Debug_Info_Result_19, Debug_Info_Result_20, Debug_Info_Result_21, Debug_Info_Result_22, Debug_Info_Result_23, Debug_Info_Result_24, Debug_Info_Result_25, Debug_Info_Result_26, Debug_Info_Result_27, Debug_Info_Result_28, Debug_Info_Result_29, Debug_Info_Result_30, Debug_Info_Result_31, Debug_Info_Result_32, Debug_Info_Result_33, Debug_Info_Result_34, Debug_Info_Result_35, Debug_Info_Result_36, Debug_Info_Result_37, Debug_Info_Result_38, Debug_Info_Result_39, Debug_Info_Result_40, Debug_Info_Result_41, Debug_Info_Result_42, Debug_Info_Result_43, Debug_Info_Result_44, Debug_Info_Result_45, Debug_Info_Result_46;
 pcall(function(a_472, b_472, c_472)
     local _ = UDim.new;
