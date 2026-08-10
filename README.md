@@ -5,4 +5,4 @@ List of Anti Tamper &amp; Anti Env Leaked  or Made By Me -- Good To Add To Your 
 
 -- Join KVms Best Free Env Logger & Deobf : https://discord.gg/X4MdbwjBFw
 
-note : all anti tamper here / anti env are tested inside roblox so there's no false positive hopefully
+note : all anti tamper here / anti env are tested inside roblox so there's no false positive hopefully & ts all free to use
