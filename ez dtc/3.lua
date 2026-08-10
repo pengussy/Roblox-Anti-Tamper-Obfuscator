@@ -1,4 +1,4 @@
--- ts actually kinda tuff
+-- ts actually kinda tuff credits to @troooor
 local getmetatable = getmetatable
 local success, mt = pcall(getmetatable, "")
 if not success or typeof(mt) ~= "table" or mt.__index ~= string or mt.__metatable ~= "The metatable is locked" then
