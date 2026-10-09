@@ -101,6 +101,8 @@ if type(vcs.leaveVoice) ~= "function" then
     vccheck()
 end
 
+print("straight BALL knowledge if ur getting this far")
+
 local ss = game:GetService("SoundService")
 
 local function sscheck()
